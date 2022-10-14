@@ -1,5 +1,5 @@
-# (Proper Loan Data Visualization)
-## by (Olamide SHOGBAMU)
+# Proper Loan Data Visualization
+## by Olamide SHOGBAMU
 
 
 ### Proper Loan Data Visualization
